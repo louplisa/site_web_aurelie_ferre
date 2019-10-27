@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02575d4b-86ae-4819-95f7-cb1d62c6b007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/adrar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/casto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chats.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ever.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SZfZCkqSl4NJRkfV9CPW59pzOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\aurelie ferre\img" />
+      <recent name="C:\wamp64\www\aurelie ferre\img\ionicons" />
+      <recent name="C:\wamp64\www\aurelie ferre\css" />
+      <recent name="C:\wamp64\www\aurelie ferre\js" />
+      <recent name="C:\wamp64\www\aurelie ferre" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02575d4b-86ae-4819-95f7-cb1d62c6b007" name="Default Changelist" comment="" />
+      <created>1571776091974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571776091974</updated>
+      <workItem from="1571776093108" duration="4349000" />
+      <workItem from="1571815512572" duration="12862000" />
+      <workItem from="1571834746180" duration="11464000" />
+      <workItem from="1571855129656" duration="22000" />
+      <workItem from="1571855289016" duration="2190000" />
+      <workItem from="1571863522155" duration="3775000" />
+      <workItem from="1571922737077" duration="21054000" />
+      <workItem from="1572002647875" duration="2680000" />
+      <workItem from="1572177115894" duration="5610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
